@@ -1,0 +1,18 @@
+body {
+  background-color: coral;
+}
+
+.header {
+  background-color: aliceblue;
+}
+.header__h1 {
+  background-color: blueviolet;
+}
+.header__nav {
+  background-color: greenyellow;
+}
+.header__navLink {
+  display: block;
+}
+
+/*# sourceMappingURL=style.css.map */

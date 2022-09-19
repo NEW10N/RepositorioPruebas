@@ -1,0 +1,23 @@
+{
+  "name": "repositoriopruebas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch":"sass --watch ./styles/style.scss:./styles/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NEW10N/RepositorioPruebas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NEW10N/RepositorioPruebas/issues"
+  },
+  "homepage": "https://github.com/NEW10N/RepositorioPruebas#readme",
+  "dependencies": {
+    "sass": "^1.54.9"
+  }
+}
